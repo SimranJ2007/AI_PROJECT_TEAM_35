@@ -1,0 +1,60 @@
+Results summary
+Results in ./untitled_project
+Showing 10 best trials
+Objective(name='val_loss', direction='min')
+Trial summary
+Hyperparameters:
+units_directional: 512
+units_dense: 512
+dense_activation: sigmoid
+learning_rate: 0.0005
+Score: 0.0013245965237729251
+Trial summary
+Hyperparameters:
+units_directional: 448
+units_dense: 192
+dense_activation: sigmoid
+learning_rate: 0.001
+Score: 0.0013324492610991001
+Trial summary
+Hyperparameters:
+units_directional: 512
+units_dense: 32
+dense_activation: sigmoid
+learning_rate: 0.0005
+Score: 0.001751778065226972
+Trial summary
+Hyperparameters:
+units_directional: 352
+units_dense: 64
+dense_activation: tanh
+learning_rate: 0.002
+Score: 0.001950435049366206
+Trial summary
+Hyperparameters:
+units_directional: 32
+units_dense: 32
+dense_activation: sigmoid
+learning_rate: 0.01
+Score: 0.007452930323779583
+Trial summary
+Hyperparameters:
+units_directional: 32
+units_dense: 32
+dense_activation: relu
+learning_rate: 0.0005
+Score: 0.020477772690355778
+Trial summary
+Hyperparameters:
+units_directional: 32
+units_dense: 32
+dense_activation: sigmoid
+learning_rate: 0.0005
+Score: 0.05210012476891279
+Trial summary
+Hyperparameters:
+units_directional: 512
+units_dense: 32
+dense_activation: sigmoid
+learning_rate: 0.01
+Score: 0.052546363323926926

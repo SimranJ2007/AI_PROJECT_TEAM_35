@@ -1,0 +1,76 @@
+Results summary
+Results in ./untitled_project
+Showing 10 best trials
+Objective(name='val_loss', direction='min')
+Trial summary
+Hyperparameters:
+units_directional: 448
+units_dense: 192
+dense_activation: sigmoid
+learning_rate: 0.001
+Score: 0.0015292122843675315
+Trial summary
+Hyperparameters:
+units_directional: 256
+units_dense: 32
+dense_activation: sigmoid
+learning_rate: 0.0005
+Score: 0.0019214143394492567
+Trial summary
+Hyperparameters:
+units_directional: 352
+units_dense: 64
+dense_activation: tanh
+learning_rate: 0.002
+Score: 0.002644290216267109
+Trial summary
+Hyperparameters:
+units_directional: 512
+units_dense: 192
+dense_activation: sigmoid
+learning_rate: 0.0004
+Score: 0.0044976959470659494
+Trial summary
+Hyperparameters:
+units_directional: 128
+units_dense: 32
+dense_activation: relu
+learning_rate: 0.0005
+Score: 0.006606499431654811
+Epochs 500
+
+Trial summary
+Hyperparameters:
+units_directional: 512
+units_dense: 32
+dense_activation: tanh
+learning_rate: 0.01
+Score: 0.021042280830442905
+Trial summary
+Hyperparameters:
+units_directional: 512
+units_dense: 32
+dense_activation: tanh
+learning_rate: 0.04
+Score: 0.06255129165947437
+Trial summary
+Hyperparameters:
+units_directional: 384
+units_dense: 64
+dense_activation: sigmoid
+learning_rate: 0.02
+Score: 0.08278265316039324
+Trial summary
+Hyperparameters:
+units_directional: 64
+units_dense: 480
+dense_activation: sigmoid
+learning_rate: 0.05
+Score: 1.1279015243053436
+Trial summary
+Hyperparameters:
+units_directional: 512
+units_dense: 512
+dense_activation: relu
+learning_rate: 0.01
+Score: 4.78435306251049
